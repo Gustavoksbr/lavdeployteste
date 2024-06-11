@@ -12,7 +12,7 @@
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://lavdeployteste.vercel.app/",
-        "APP_KEY":"z24u4m2mZCmAW6FwckOVMa3O9pXfVTIoxM99KiscnGo=",
+        "APP_KEY":"base64:IcPA0pH6cHkmtkUGraE2k7A7cSd8KuEL2LO5ydOIY2k=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
