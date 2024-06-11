@@ -11,7 +11,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://yourprojectdomain.com",
+        "APP_URL": "https://lavdeployteste.vercel.app/",
         "APP_KEY":"z24u4m2mZCmAW6FwckOVMa3O9pXfVTIoxM99KiscnGo=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
